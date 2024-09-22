@@ -81,5 +81,5 @@ app.get('/bfhl', (req, res) => {
 
 // Start the Express server
 app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+  console.log(`Server is running on https://bajaj-1-ybbj.onrender.com:${PORT}`);
 });
